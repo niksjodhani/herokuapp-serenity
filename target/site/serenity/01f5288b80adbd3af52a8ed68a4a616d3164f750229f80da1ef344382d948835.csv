@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking CURD info","This will Get  a token  for user","SUCCESS","2022-06-07T21:53:14.098+01:00[Europe/London]","0.0","3.75"
+"Booking CURD info","This will Create a booking user","SUCCESS","2022-06-07T21:53:17.869+01:00[Europe/London]","0.0","0.76"
+"Booking CURD info","This will Update a booking","SUCCESS","2022-06-07T21:53:18.633+01:00[Europe/London]","0.0","0.54"
+"Booking CURD info","This will Deleted a user","SUCCESS","2022-06-07T21:53:19.172+01:00[Europe/London]","0.0","0.91"
